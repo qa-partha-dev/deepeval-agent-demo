@@ -1,5 +1,8 @@
 # DeepEval Agentic Testing Demo
 
+Course project from *Testing AI Systems with DeepEval* (Udemy).
+The agents were provided by the course; the evaluation tests in `evals/` are my work.
+
 A minimal teaching repo that shows how to evaluate a LangChain agent with
 DeepEval's component-level evaluation: **Task Completion** and **Tool
 Correctness** metrics, applied to a cross-vendor setup (Claude as the
